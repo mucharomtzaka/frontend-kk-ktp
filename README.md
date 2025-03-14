@@ -32,7 +32,7 @@ Aplikasi ini adalah sistem pendataan KTP Penduduk dan Kartu Keluarga berbasis we
 ## 📌 Instalasi dan Menjalankan Aplikasi
 ### 1️⃣ Clone Repository
 ```sh
-git clone https://github.com/username/repo-frontend.git
+git clone https://github.com/mucharomtzaka/frontend-kk-ktp.git repo-frontend
 cd repo-frontend
 ```
 
